@@ -49,7 +49,7 @@ Be able to have conversations in French.
 
 ## Motivation
 
-- I really like how the French sounds and I want to be able to sound like that too hahahaha
+- I really like how French sounds and I want to be able to sound like that too hahahaha
 - French Cinema (I love everything about [this](https://www.youtube.com/watch?v=pegpT5R00DM) movie :heart:)
 - France
 - [Nathaniel Drew talking to his polyglot grandmother in several languages](https://www.youtube.com/watch?v=AYp5xtkoF6M)
