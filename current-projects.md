@@ -6,9 +6,9 @@ I feel that, despite knowing how to program in several programming languages, I 
 
 ## Motivation
 
-- Become a better programmer
-- [Recurse Center](https://www.recurse.com/manual#sec-advice)
-- Learn how to do cool stuff
+- Become a better programmer;
+- [Recurse Center](https://www.recurse.com/manual#sec-advice);
+- Learn how to do cool stuff.
 
 ## Related Links
 
@@ -49,10 +49,10 @@ Be able to have conversations in French.
 
 ## Motivation
 
-- I really like how French sounds and I want to be able to sound like that too hahahaha
-- French Cinema (I love everything about [this](https://www.youtube.com/watch?v=pegpT5R00DM) movie :heart:)
-- France
-- [Nathaniel Drew talking to his polyglot grandmother in several languages](https://www.youtube.com/watch?v=AYp5xtkoF6M)
+- I really like how French sounds and I want to be able to sound like that too hahahaha;
+- French Cinema (I love everything about [this](https://www.youtube.com/watch?v=pegpT5R00DM) movie :heart:);
+- France;
+- [Nathaniel Drew talking to his polyglot grandmother in several languages](https://www.youtube.com/watch?v=AYp5xtkoF6M).
 
 ## Related Links
 
