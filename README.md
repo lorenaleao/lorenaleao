@@ -8,7 +8,7 @@
 
 - - - -
 
-:sparkles: I study Computer Science and take a series of courses related to Culture and Creative Processes at the [Universidade Federal de Minas Gerais](https://ufmg.br/). I'm also a software engineer intern at [Cyral](https://cyral.com/) and I do theater at the [Escola Livre de Artes](http://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/centros-culturais/escola-livre-de-artes-arena-da-cultura-ela-arena). 
+:sparkles: I study Computer Science and take a series of courses related to Culture and Creative Processes at the [Universidade Federal de Minas Gerais](https://ufmg.br/). I'm also a software engineer intern at [Cyral](https://cyral.com/)<!--and I do theater at the [Escola Livre de Artes](http://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/centros-culturais/escola-livre-de-artes-arena-da-cultura-ela-arena)-->. 
 
 In parallel, I’m working on learning the Go language more deeply, learning Bash, studying algorithms and data structures and solving code problems. You can see more details of what I'm up to [here](https://github.com/lorenaleao/lorenaleao/blob/master/current-projects.md). In [this](https://github.com/lorenaleao/hello-world) repository and in my social networks I share, from time to time, ideas, resources, interesting initiatives and things I like.
 
