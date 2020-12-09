@@ -1,8 +1,8 @@
-# :sparkles: Participate in a programming marathon
+# :sparkles: Participate in the programming marathon of Minas Gerais in 2021
 
 ## Description
 
-In the first year, veterans present to us, freshmen at the time, the Programming Marathon. I always found it cool, especially because you get lots of opportunities to travel and I always wanted to travel the world. However, since that time I have struggled with start competing, start studying, talk to people that compete, participate in online contests, etc. (Just thinking about competing would made me anxious.) And I believe this has a lot to do with what Reshma Saujani talks about in [this](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection) TED Talk. So, this year, which is the last year that I can compete for real, I decided to try to participate and go for it. Luckily, I found myself an all-girls team :) I hope it's fun! Cheer for us :crossed_fingers:
+https://github.com/lorenaleao/lorenaleao/blob/master/past-projects.md
 
 ## Motivation
 
@@ -15,7 +15,7 @@ In the first year, veterans present to us, freshmen at the time, the Programming
 
 ## Updates
 
-I'm taking Competitive Programming this semester (2020/1), which is a discipline offered by DCC/UFMG and taught by professor [Vinicius Fernandes dos Santos](https://homepages.dcc.ufmg.br/~viniciussantos/). I'll put the files created along the way [here](https://github.com/lorenaleao/code-challenges).
+I'll put the files created along the way [here](https://github.com/lorenaleao/code-challenges).
 
 # :sparkles: Learn a programming language really well (Go)
 
