@@ -1,5 +1,7 @@
 # :sparkles: Participate in the programming marathon of Minas Gerais in 2021
 
+**TODO:** finish updating this project description [WIP]
+
 ## Description
 
 https://github.com/lorenaleao/lorenaleao/blob/master/past-projects.md
@@ -16,6 +18,25 @@ https://github.com/lorenaleao/lorenaleao/blob/master/past-projects.md
 ## Updates
 
 I'll put the files created along the way [here](https://github.com/lorenaleao/code-challenges).
+
+# :sparkles: Learn Prolog
+
+## Description
+
+I'm taking Logic Programming this semester as part of the optional workload of the Bachelor in Computer Science at UFMG. 
+
+## Motivation
+
+- I kinda liked programming in Prolog when I took the Programming Languages course at UFMG;
+- Learn how to think and program using a different paradigm.
+
+## Related Links
+
+
+## Updates
+
+I'll put the files created along the way [here](https://github.com/lorenaleao/learning-prolog).
+
 
 # :sparkles: Learn a programming language really well (Go)
 
