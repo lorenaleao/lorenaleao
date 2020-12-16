@@ -32,6 +32,7 @@ I'm taking Logic Programming this semester as part of the optional workload of t
 
 ## Related Links
 
+- [Programming Languages Course HomePage](https://homepages.dcc.ufmg.br/~fernando/classes/dcc024/)
 
 ## Updates
 
