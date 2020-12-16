@@ -33,6 +33,7 @@ I'm taking Logic Programming this semester as part of the optional workload of t
 ## Related Links
 
 - [Programming Languages Course HomePage](https://homepages.dcc.ufmg.br/~fernando/classes/dcc024/)
+- [Prolog Comparison Operators](http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/comparison.html)
 
 ## Updates
 
