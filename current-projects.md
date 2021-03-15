@@ -35,6 +35,8 @@ I'm taking Logic Programming this semester as part of the optional workload of t
 - [Programming Languages Course HomePage](https://homepages.dcc.ufmg.br/~fernando/classes/dcc024/)
 - [Prolog Comparison Operators](http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/comparison.html)
 - [Learn Prolog Now! -- an introductory course to programming in Prolog](http://learnprolognow.org/lpnpage.php?pageid=top) co-authored by [Kristina Striegnitz](http://cs.union.edu/~striegnk/), associate professor in the Computer Science Department at Union College.
+- [SWISH: A web based SWI-Prolog environment](https://swish.swi-prolog.org/). Its source code is available [here](https://github.com/SWI-Prolog/swish).
+- [prolog :- tutorial by J. R. Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html).
 
 ## Updates
 
