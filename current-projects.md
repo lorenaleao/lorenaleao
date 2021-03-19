@@ -37,6 +37,8 @@ I'm taking Logic Programming this semester as part of the optional workload of t
 - [Learn Prolog Now! -- an introductory course to programming in Prolog](http://learnprolognow.org/lpnpage.php?pageid=top) co-authored by [Kristina Striegnitz](http://cs.union.edu/~striegnk/), associate professor in the Computer Science Department at Union College.
 - [SWISH: A web based SWI-Prolog environment](https://swish.swi-prolog.org/). Its source code is available [here](https://github.com/SWI-Prolog/swish).
 - [prolog :- tutorial by J. R. Fisher](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html).
+- [Prolog/Bagof, Setof and Findall](https://en.wikibooks.org/wiki/Prolog/Bagof,_Setof_and_Findall)
+- [Prolog Wikibook](https://en.wikibooks.org/wiki/Prolog)
 
 ## Updates
 
