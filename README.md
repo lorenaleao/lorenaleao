@@ -28,4 +28,16 @@ Coisas que me interessam: educação, ler, explorar o mundo e idéias, filosofia
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Lorena Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaleao&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaleao&count_private=true&hide=jupyter%20notebook,javascript,html&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+
+
+
+[![Lorena Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaleao&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
