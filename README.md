@@ -8,7 +8,12 @@
 
 - - - -
 
-:sparkles: I studied Computer Science and took a series of courses related to Culture and Creative Processes at the [Universidade Federal de Minas Gerais](https://ufmg.br/). Currently, I'm a software engineer at [Cyral](https://cyral.com/)<!--and I do theater at the [Escola Livre de Artes](http://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/centros-culturais/escola-livre-de-artes-arena-da-cultura-ela-arena)-->. 
+✨ I'm a back-end software engineer at Cyral with over 3 years of experience. I hold a B.Sc. in Computer Science from [Universidade Federal de Minas Gerais](https://ufmg.br/), where I also explored topics in Education, Culture, and Creative Processes. I'm passionate about building meaningful solutions and work mainly with Go and Python, I love tackling complex challenges and fostering a collaborative environment.
+
+I'm driven by my curiosity to learn and my belief in the transformative power of education. Outside of tech, I'm interested in sociology, politics, and philosophy. I enjoy traveling, learning new languages, and connecting with different cultures.
+
+
+<!--:sparkles: I studied Computer Science and took a series of courses related to Culture and Creative Processes at the [Universidade Federal de Minas Gerais](https://ufmg.br/). Currently, I'm a software engineer at [Cyral](https://cyral.com/) and I do theater at the [Escola Livre de Artes](http://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/centros-culturais/escola-livre-de-artes-arena-da-cultura-ela-arena).-->
 
 <!--In parallel, I’m working on learning [Prolog](https://github.com/lorenaleao/learning-prolog) Go language more deeply and [Bash](https://github.com/lorenaleao/bash-scripts), studying algorithms and data structures and solving code problems. You can see more details of what I'm up to [here](https://github.com/lorenaleao/lorenaleao/blob/master/current-projects.md) and my past projects [here](https://github.com/lorenaleao/lorenaleao/blob/master/past-projects.md).--> 
 In [this](https://github.com/lorenaleao/hello-world) repository and in my social networks I share, from time to time, ideas, resources, interesting initiatives and things I like.
