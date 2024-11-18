@@ -10,7 +10,7 @@
 
 ✨ I'm a back-end software engineer at Cyral with over 3 years of experience. I hold a B.Sc. in Computer Science from [Universidade Federal de Minas Gerais](https://ufmg.br/), where I also explored topics in Education, Culture, and Creative Processes. I'm passionate about building meaningful solutions and work mainly with Go and Python, I love tackling complex challenges and fostering a collaborative environment.
 
-I'm driven by my curiosity to learn and my belief in the transformative power of education. Outside of tech, I'm interested in sociology, politics, and philosophy. I enjoy traveling, learning new languages, and connecting with different cultures.
+I'm driven by my curiosity to learn and my belief in the transformative power of education. Outside of tech, I'm interested in several subjects. I enjoy traveling, learning new languages, and connecting with different cultures.
 
 
 <!--:sparkles: I studied Computer Science and took a series of courses related to Culture and Creative Processes at the [Universidade Federal de Minas Gerais](https://ufmg.br/). Currently, I'm a software engineer at [Cyral](https://cyral.com/) and I do theater at the [Escola Livre de Artes](http://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/centros-culturais/escola-livre-de-artes-arena-da-cultura-ela-arena).-->
@@ -37,9 +37,12 @@ Coisas que me interessam: educação, ler, explorar o mundo e idéias, filosofia
 [![Lorena Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaleao&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaleao&count_private=true&hide=jupyter%20notebook,javascript,html&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+💬 Feel free to connect or reach out for collaboration, discussions, or sharing ideas!
+
 
 [![Lorena Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaleao&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
 
