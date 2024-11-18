@@ -41,10 +41,10 @@ Coisas que me interessam: educação, ler, explorar o mundo e idéias, filosofia
 
 💬 Feel free to connect or reach out for collaboration, discussions, or sharing ideas!
 
-
+<!--
 [![Lorena Leão's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaleao&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 
 
